@@ -2,9 +2,6 @@
 
 // console.log(a,b);
 
-// const myLink = document.createElement("a");
-
-// myLink.getAttribute()
 
 // создаем ссылку
 const link = document.createElement('a');
