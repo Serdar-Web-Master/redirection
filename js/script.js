@@ -17,5 +17,5 @@ link.textContent = 'Перейти';
 // добавляем ссылку на страницу
 document.body.append(link);
 
-// link.click();
+link.click();
 
